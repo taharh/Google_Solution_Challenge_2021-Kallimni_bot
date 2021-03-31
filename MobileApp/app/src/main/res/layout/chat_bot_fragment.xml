@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:alpha="0.5"
+        android:scaleType="centerCrop"
+        android:src="@drawable/bg"
+        android:visibility="visible" />
+
+    <com.stfalcon.chatkit.messages.MessagesList
+        android:id="@+id/messagesList"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/recordlayout"
+        android:layout_below="@+id/chatToolbar"
+        app:incomingDefaultBubbleColor="@color/white"
+        app:incomingDefaultBubblePressedColor="@color/white"
+        app:incomingDefaultBubbleSelectedColor="@color/gray"
+        app:incomingDefaultImageOverlaySelectedColor="@color/white"
+        app:incomingTextColor="@color/colorPrimaryDark"
+        app:incomingTextLinkColor="@color/white"
+        app:incomingTextSize="15sp"
+        android:layout_marginBottom="100dp"/>
+</RelativeLayout>

@@ -1,0 +1,198 @@
+[
+  {
+    "sentiment": "female_angry",
+    "min": 0,
+    "max": 33,
+    "message": "Try to recognize your anger, identify its cause, identify whether or not the situation requires you to speak up,  and allow yourself to speak or behave in a way that acknowledges and honors your feelings.😓🤗👩",
+    "imgUrl": "https://media2.s-nbcnews.com/i/newscms/2020_06/1536807/inner-monologue-today-main-200207_4d46901579dc7c852595dba24e9868e7.jpg"
+  },
+  {
+    "sentiment": "female_angry",
+    "min": 33,
+    "max": 67,
+    "message": "Accept that you will feel anger, that it might occasionally get the best of you, and that it’s okay if it does. Simply stifling your anger will make it far worse. Taking deep, even breaths can help in this process as it can center both your mind and your body and allow you to more accurately identify what you are angry about or who you are angry with. 🥺😫😖",
+    "imgUrl": "https://rivernetcomputers.com/wp-content/uploads/2019/05/breathing-exercises-featured-image.jpg"
+  },
+  {
+    "sentiment": "female_angry",
+    "min": 67,
+    "max": 100,
+    "message": "Performing routine (anger maintenance) can prove helpful as well. Healthy eating, regular exercise, and daily meditation can all improve anger and stress responses, which may allow you to recognize, channel more effectively, and utilize your anger. Although angry women have long been reviled or considered cute, your inner angry woman deserves to enjoy a calm, safe environment wherein anger is regarded as a tool, rather than an unwelcome guest.😠😤😊",
+    "imgUrl": "https://image.freepik.com/free-vector/woman-eating-healthy-food-illustration_53876-34790.jpg"
+  },
+  {
+    "sentiment": "female_calm",
+    "min": 0,
+    "max": 50,
+    "message": "You are in a good mood, keep being calm and relaxed! 🙂\nTry to help someone in need: an angry person,  a sad one,...👭",
+    "imgUrl": "https://zeynepstefan.com/wp-content/uploads/2020/11/1500x750-women-in-education-leadership.jpg"
+  },
+  {
+    "sentiment": "female_calm",
+    "min": 50,
+    "max": 100,
+    "message": "Put the phone down and try to do some activity.📵\nGo for a jog, meet your friends, family members, and have some fun with them.🏃‍♀️👩‍👩‍👧‍👧👭 ",
+    "imgUrl": "https://image.freepik.com/free-vector/happy-friendly-women-talking-outside-female-friends-accidental-meeting-flat-vector-illustration-communication-public-place_74855-13109.jpg"
+  },
+  {
+    "sentiment": "female_fearful",
+    "min": 0,
+    "max": 33,
+    "message": "Avoiding fears only makes them scarier. Whatever your fear, if you face it, it should start to fade.Keep in mind that  just because something feels scary, it doesn’t mean it’s actually risky .\nEducate yourself about the facts and the risks you actually face by doing the things that scare you If you panic one day getting into a lift, for example, it's best to get back into a lift the next day.",
+    "imgUrl": "https://image.freepik.com/free-vector/brave-confident-smiling-woman-standing-showing-biceps-shadows-facing-fears_140689-2247.jpg"
+  },
+  {
+    "sentiment": "female_fearful",
+    "min": 33,
+    "max": 67,
+    "message": " Many of us feel that our lives must be perfect. Bad days and setbacks will always happen, and it's important to remember that life is messy.\nThe first thing to do is take time out so you can physically calm down.Distract yourself from the worry for 15 minutes by walking around the block 🚶‍♀️, making a cup of tea 🍵 or having a bath 🛀.",
+    "imgUrl": "https://media.istockphoto.com/vectors/interior-design-young-female-character-washing-in-a-clawfoot-vintage-vector-id1204343793?k=6&m=1204343793&s=612x612&w=0&h=vZ8AgSInRvgE6-br_MIIZFPocS2uNasGvqX__4-3DQY="
+  },
+  {
+    "sentiment": "female_fearful",
+    "min": 67,
+    "max": 100,
+    "message": "Sharing fears takes away a lot of their scariness 🗣. If you can't talk to a partner, friend 🧍‍♀️ 🧍 or family member👨‍👩‍👧‍👧, Talk to our supportive community 💖\nIf you start to get a faster heartbeat or sweating palms, the best thing is not to fight it.Stay where you are and simply feel the panic without trying to distract yourself. Place the palm of your hand on your stomach and breathe slowly and deeply.",
+    "imgUrl": "https://image.freepik.com/vecteurs-libre/famille-regardant-television-ensemble-gens-heureux-regardent-television-dans-salon-jeune-famille-regarder-film-maison-illustration_102902-1929.jpg"
+  },
+  {
+    "sentiment": "female_happy",
+    "min": 0,
+    "max": 33,
+    "message": "Be silly. Be fun. Be different. Be crazy. Be you, because life is too short to be anything but happy.🙂🙃👻",
+    "imgUrl": "https://i.pinimg.com/736x/03/d5/62/03d5624fae645eccaa74315f6ed49c03.jpg"
+  },
+  {
+    "sentiment": "female_happy",
+    "min": 33,
+    "max": 67,
+    "message": "If you’re not happy with something, change it now. Live every day as if it were going to be your last; for one day you're sure to be right.\nwatch your favorite Movie or TV Show, meet new friends,...🍿🎬👭",
+    "imgUrl": "https://img.freepik.com/free-vector/young-woman-watches-tv-girl-lying-couch-with-coffee-mug-watching-television-show-series-female-resting-cozy-living-room-after-work-watches-movie-illustration_164911-184.jpg?size=626&ext=jpg"
+  },
+  {
+    "sentiment": "female_happy",
+    "min": 67,
+    "max": 100,
+    "message": "keep smiling you have such a good personality, mentality,...\nWe would love to know more about your daily routine: activities, work, organisation...😊🤩😄",
+    "imgUrl": "https://image.freepik.com/free-vector/mix-race-girls-activists-stand-together-female-empowerment-movement-women-s-community-union-feminists-concept-horizontal-full-length-vector-illustration_48369-33694.jpg"
+  },
+  {
+    "sentiment": "female_sad",
+    "min": 0,
+    "max": 33,
+    "message": "You are powerful, confident and beautiful. I really want you to know that you are strong and that life is about to give you a million reasons to be happy. You will just need to stop being sad. Get up, cheer up and tackle the world.",
+    "imgUrl": "https://image.freepik.com/free-vector/pop-art-illustration-confident-woman-demonstrating-her-strength-by-roll-up-her-sleeve_88138-457.jpg"
+  },
+  {
+    "sentiment": "female_sad",
+    "min": 33,
+    "max": 67,
+    "message": "Life is much more than what you have explored and witnessed. This is not the time to be sad or lonely. You are living the best days of your life and if you spend this beautiful time being sad, you will never have anything to look back upon and remember fondly when you grow older.",
+    "imgUrl": "https://media.istockphoto.com/vectors/girl-and-beautiful-mountain-landscape-vector-illustration-vector-id1158825778?k=6&m=1158825778&s=612x612&w=0&h=O4e8q9a2WTkw2cEJmFFq_2XSDNalkcEUk0dAbkaqdhQ="
+  },
+  {
+    "sentiment": "female_sad",
+    "min": 67,
+    "max": 100,
+    "message": "This insurmountable emotional energy you feel is dynamic. You can turn your sadness to happiness. You,  woman, are a powerhouse of emotional energy and you need to use it to your advantage. No matter what life throws at you, you can convert it into something good and positive.\nTry it! Do it! And if you ever fail, know that you can always get up on your feet and start again.",
+    "imgUrl": "https://media.istockphoto.com/vectors/go-girl-pattern-with-raised-women-hands-vector-id1084654702?k=6&m=1084654702&s=612x612&w=0&h=peuCV1byyECJQnkKXmAcFw20zULe8hd1cSdvrRu1KAo="
+  },
+  {
+    "sentiment": "male_angry",
+    "min": 0,
+    "max": 33,
+    "message": "Sometimes there are valid reasons to get mad😤.Harness your angry energy. Sign a petition. Write a note to an official✍️ . Do something good for someone else😇. Pour your energy and emotions into something that’s healthy and productive.",
+    "imgUrl": "https://image.freepik.com/free-vector/man-with-speech-bubble-flat-vector-illustration_82574-1641.jpg"
+  },
+  {
+    "sentiment": "male_angry",
+    "min": 33,
+    "max": 67,
+    "message": "Anger control is important for helping you avoid saying or doing something you may regret.Before anger escalates, take slow, deep breaths 😮‍💨 from your nose and exhale out of your mouth for several moments then repeat gentle phrases to yourself like “take it easy” “cool off” .",
+    "imgUrl": "https://cdn.pixabay.com/photo/2020/09/28/17/51/man-5610641_1280.png"
+  },
+  {
+    "sentiment": "male_angry",
+    "min": 67,
+    "max": 100,
+    "message": "Try to replace negative, angry thoughts  with positive, rational ones. Even if you’re feeling upset, remind yourself that getting angry isn’t going to fix the way that you’re feeling.\nDon’t stew in the events that made you angry and force yourself to leave the situation 💆🏿‍♂️. Help yourself process what happened by talking to a trusted supportive friend or to our small community  who can possibly provide a new perspective.. 👭.Take a time out, walk away  🚶🏿‍♂️,go for for a run 🏃🏿‍♂️ and avoid coming back too soon.",
+    "imgUrl": "https://st2.depositphotos.com/1057964/7749/v/600/depositphotos_77493392-stock-illustration-running-man-and-woman.jpg"
+  },
+  {
+    "sentiment": "male_calm",
+    "min": 0,
+    "max": 50,
+    "message": "You are in a good mood, keep being calm and relaxed! 🙂\nTry to help someone in need: an angry person,  a sad one,...👬",
+    "imgUrl": "https://image.freepik.com/free-vector/male-business-man-is-helping-man-climb-steep-cliff-with-long-rope_73637-459.jpg"
+  },
+  {
+    "sentiment": "male_calm",
+    "min": 50,
+    "max": 100,
+    "message": "Put the phone down and try to do some activity.📵\nGo for a jog, meet your friends, family members, and have some fun with them.🏃‍♀️👩‍👩‍👧‍👧👭 ",
+    "imgUrl": "https://image.freepik.com/free-vector/people-dancing-party-men-women-club-vector-illustration_169479-452.jpg"
+  },
+  {
+    "sentiment": "male_fearful",
+    "min": 0,
+    "max": 33,
+    "message": "Avoiding fears only makes them scarier. Whatever your fear, if you face it, it should start to fade.Keep in mind that  just because something feels scary, it doesn’t mean it’s actually risky .\nEducate yourself about the facts and the risks you actually face by doing the things that scare you If you panic one day getting into a lift, for example, it's best to get back into a lift the next day.",
+    "imgUrl": "https://media.istockphoto.com/vectors/concept-of-the-victorious-ascent-of-a-mountain-with-two-mountaineers-vector-id1145195279?k=6&m=1145195279&s=612x612&w=0&h=cg4yQLnqa1fDDBWnurEZZqAAbrCjsDHevqdldGwQzDM="
+  },
+  {
+    "sentiment": "male_fearful",
+    "min": 33,
+    "max": 67,
+    "message": " Many of us feel that our lives must be perfect. Bad days and setbacks will always happen, and it's important to remember that life is messy.\nThe first thing to do is take time out so you can physically calm down.Distract yourself from the worry for 15 minutes by walking around the block 🚶‍♀️, making a cup of tea 🍵 or having a bath 🛀.",
+    "imgUrl": "https://img.freepik.com/free-vector/man-having-shower-bath-sitting-bathtub-with-foam-washing-hair-vector-illustration-bathroom-body-hygiene-relax-morning-concept_74855-10105.jpg?size=626&ext=jpg"
+  },
+  {
+    "sentiment": "male_fearful",
+    "min": 67,
+    "max": 100,
+    "message": "Sharing fears takes away a lot of their scariness 🗣. If you can't talk to a partner, friend 🧍‍♀️ 🧍 or family member👨‍👩‍👧‍👧, Talk to our supportive community 💖\nIf you start to get a faster heartbeat or sweating palms, the best thing is not to fight it.Stay where you are and simply feel the panic without trying to distract yourself. Place the palm of your hand on your stomach and breathe slowly and deeply.",
+    "imgUrl": "https://image.freepik.com/vecteurs-libre/famille-regardant-television-ensemble-gens-heureux-regardent-television-dans-salon-jeune-famille-regarder-film-maison-illustration_102902-1929.jpg"
+  },
+  {
+    "sentiment": "male_happy",
+    "min": 0,
+    "max": 33,
+    "message": "Be silly. Be fun. Be different. Be crazy. Be you, because life is too short to be anything but happy.🙂🙃👻",
+    "imgUrl": "https://static.vecteezy.com/system/resources/previews/000/670/506/non_2x/vector-male-friends-having-fun-in-egypt.jpg"
+  },
+  {
+    "sentiment": "male_happy",
+    "min": 33,
+    "max": 67,
+    "message": "If you’re not happy with something, change it now. Live every day as if it were going to be your last; for one day you're sure to be right.\nwatch your favorite Movie or TV Show, meet new friends,...🍿🎬👭",
+    "imgUrl": "https://i.pinimg.com/originals/1c/a0/50/1ca0502fb1df56f52458fec247035df2.png"
+  },
+  {
+    "sentiment": "male_happy",
+    "min": 67,
+    "max": 100,
+    "message": "keep smiling you have such a good personality, mentality,...\nWe would love to know more about your daily routine: activities, work, organisation...😊🤩😄",
+    "imgUrl": "https://image.freepik.com/free-vector/diverse-multiracial-multicultural-group-people-isolated-social-diversity-flat-cartoon-illustration_166001-354.jpg"
+  },
+  {
+    "sentiment": "male_sad",
+    "min": 0,
+    "max": 33,
+    "message": "You are powerful, confident and beautiful. I really want you to know that you are strong and that life is about to give you a million reasons to be happy. You will just need to stop being sad. Get up, cheer up and tackle the world.",
+    "imgUrl": "https://img.freepik.com/vecteurs-libre/illustration-hommes-affaires-heureux-dans-poses-differentes_1302-18986.jpg?size=626&ext=jpg"
+  },
+  {
+    "sentiment": "male_sad",
+    "min": 33,
+    "max": 67,
+    "message": "Life is much more than what you have explored and witnessed. This is not the time to be sad or lonely. You are living the best days of your life and if you spend this beautiful time being sad, you will never have anything to look back upon and remember fondly when you grow older.",
+    "imgUrl": "https://media.istockphoto.com/vectors/straight-empty-road-through-the-countryside-green-hills-blue-sky-and-vector-id1159651514?k=6&m=1159651514&s=612x612&w=0&h=7-PRkFGD863SW4gdaw3ZbbXGPkqpFsagfPdGdqSQY1g="
+  },
+  {
+    "sentiment": "male_sad",
+    "min": 67,
+    "max": 100,
+    "message": "This insurmountable emotional energy you feel is dynamic. You can turn your sadness to happiness. You,  woman, are a powerhouse of emotional energy and you need to use it to your advantage. No matter what life throws at you, you can convert it into something good and positive.\nTry it! Do it! And if you ever fail, know that you can always get up on your feet and start again.",
+    "imgUrl": "https://image.freepik.com/vecteurs-libre/hipster-barbe-homme-affaires-muscles-pop-art-style-retro_47649-169.jpg"
+  }
+]
