@@ -10,7 +10,14 @@
 * Our app’s goal is to introduce people to the world of psychological treatment, and familiarize the act of visiting a psychologist. 
 * Kallimni app takes you to an individual therapy session with our virtual psychologist KALLIMNIBOT . You’ll be free to express your feelings, and talk about all your life struggles.
 
-![Main Screen](https://github.com/taharh/2021-Google-Solution-Challenge-lovers/blob/main/images/img1.jpg?raw=true)
+![Main Screen](https://github.com/taharh/2021-Google-Solution-Challenge-lovers/blob/main/images/img1.jpg?raw=true) ![Main Screen](https://github.com/taharh/2021-Google-Solution-Challenge-lovers/blob/main/images/img1.jpg?raw=true)
+
+
+## What's Kallimni?
+* Our app’s goal is to introduce people to the world of psychological treatment, and familiarize the act of visiting a psychologist. 
+* Kallimni app takes you to an individual therapy session with our virtual psychologist KALLIMNIBOT . You’ll be free to express your feelings, and talk about all your life struggles.
+
+
 
 
 
