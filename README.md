@@ -26,11 +26,11 @@
 # **Solution Architecture**
 ### **1. Cloud Pub/Sub**
 ![Cloud Pub/Sub](https://github.com/taharh/Google_Solution_Challenge_2021-Kallimni_bot/blob/main/images/Cloudpubsub.png?raw=true)
->**The first one is the Google Cloud Pub/Sub that we’ll be using because
+>*The first one is the Google Cloud Pub/Sub that we’ll be using because
 the chatbot messaging feature requires using real time messaging.
 An app user creates and sends audio messages to a topic. 
 Subscriber two create a subscription to our topic to receive messages from it.
- Subscriber one receives the audio coded in  base sixty four  and transmits it to the NLP model using a cloud trigger.**
+ Subscriber one receives the audio coded in  base sixty four  and transmits it to the NLP model using a cloud trigger.*
 
  ```python
  python pubsub.py $PROJECT sub_one
@@ -38,17 +38,17 @@ Subscriber two create a subscription to our topic to receive messages from it.
  
 ### **2. Machine Learning (NLP)**
  ![Cloud Pub/Sub](https://github.com/taharh/Google_Solution_Challenge_2021-Kallimni_bot/blob/main/images/model.png?raw=true)
- >**Here our model extract the emotions from every user’s voice, using an open source model that takes an audio format as an input and predicts 5 different emotions for each gender depending on the frequency of their voice , that way we will be able to communicate with every user no matter what language they’re using. And on every user voice record we feed another model with the extracted emotions so that he keeps training until he predicts the user's psychological illnesses.**
+ >*Here our model extract the emotions from every user’s voice, using an open source model that takes an audio format as an input and predicts 5 different emotions for each gender depending on the frequency of their voice , that way we will be able to communicate with every user no matter what language they’re using. And on every user voice record we feed another model with the extracted emotions so that he keeps training until he predicts the user's psychological illnesses.*
 
 **Model used: https://github.com/MITESHPUTHRANNEU/Speech-Emotion-Analyzer** 
 
 ### **3. Android App (MVVM)**
  ![Cloud Pub/Sub](https://github.com/taharh/Google_Solution_Challenge_2021-Kallimni_bot/blob/main/images/mvvm.png?raw=true)
- >**We used the MVVM pattern because it’s scalable and our model needs and audio and a message received and our view model contains a GoogleCloudDataService method that implements the second subscriber**
+ >*We used the MVVM pattern because it’s scalable and our model needs and audio and a message received and our view model contains a GoogleCloudDataService method that implements the second subscriber*
 ### **4. Full Architecture**
  ![Cloud Pub/Sub](https://github.com/taharh/Google_Solution_Challenge_2021-Kallimni_bot/blob/main/images/general.png?raw=true)
- >**Our app is based on a general architecture divided on three 
-sub-architectures.**
+ >*Our app is based on a general architecture divided on three 
+sub-architectures.*
 
 
 
