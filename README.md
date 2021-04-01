@@ -14,6 +14,7 @@
 ## What's Kallimni?
 * Our app’s goal is to introduce people to the world of psychological treatment, and familiarize the act of visiting a psychologist. 
 * Kallimni app takes you to an individual therapy session with our virtual psychologist KALLIMNIBOT . You’ll be free to express your feelings, and talk about all your life struggles.
+* Here's an article refering nearly to the same idea as our app implemented recently by Google MENA [Article](https://amp-thenationalnews-com.cdn.ampproject.org/c/s/amp.thenationalnews.com/lifestyle/wellbeing/google-assistant-now-provides-ai-powered-mental-health-support-to-arabic-speakers-1.1192581) 
 
 ## Technologies:
 ![](https://img.shields.io/badge/Platform-Google_Cloud-informational?style=flat&logo=Google-Cloud&logoColor=white&color=2bbc8a)
@@ -53,6 +54,5 @@ Subscriber two create a subscription to our topic to receive messages from it.
  
  *Our app is based on a general architecture divided on three 
 sub-architectures.*
-
 
 
